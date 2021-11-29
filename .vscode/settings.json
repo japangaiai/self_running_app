@@ -1,0 +1,11 @@
+{
+  "git.ignoreLimitWarning": true,
+  "cSpell.words": [
+    "gunicorn",
+    "mlapp",
+    "optim",
+    "signup",
+    "wsgi",
+    "yolov"
+  ]
+}

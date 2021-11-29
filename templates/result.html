@@ -1,0 +1,12 @@
+{% extends 'base.html' %} {% block content %}
+
+<div class="container" style="margin-top: 20px">
+    <h4>推論使用画像</h4>
+    {{ result }}
+    <img src="{{ image_url }}" class="prob_img" width="300"/>
+</div>
+
+{% endblock %}
+
+<!-- https://zenn.dev/opamp/articles/b4005309740fa6
+https://www.alpha.co.jp/blog/202108_02 -->
